@@ -1,0 +1,49 @@
+{
+    "vehicles": [
+        {
+            "added": "2022-04-10T14:00:00.000Z",
+            "id": "d1886085-a3ec-4042-a091-6dca1a7f2b2f",
+            "imageUrl": "https://bbts1.azureedge.net/images/p/full/2021/09/519b0886-cd08-4ae5-914f-95a499609911.jpg",
+            "make": "Tracey",
+            "mileage": 55716,
+            "model": "Thunderbird 1",
+            "vrm": "TH81BRD"
+        },
+        {
+            "added": "2022-04-14T14:00:00.000Z",
+            "id": "6736e1dd-5c02-4d91-9845-bed20af8332c",
+            "imageUrl": "https://bbts1.azureedge.net/images/p/full/2021/09/519b0886-cd08-4ae5-914f-95a499609911.jpg",
+            "make": "Tracey",
+            "mileage": 13790,
+            "model": "Thunderbird 2",
+            "vrm": "TH82BRD"
+        },
+        {
+            "added": "2022-04-12T14:00:00.000Z",
+            "id": "a5a2d6de-6146-4037-8687-47bf9098e325",
+            "imageUrl": "https://bbts1.azureedge.net/images/p/full/2021/09/519b0886-cd08-4ae5-914f-95a499609911.jpg",
+            "make": "Tracey",
+            "mileage": 76686,
+            "model": "Thunderbird 3",
+            "vrm": "TH83BRD"
+        },
+        {
+            "added": "2022-04-13T14:00:00.000Z",
+            "id": "c7e0eb4a-bbfc-4be1-88e5-9297d563690e",
+            "imageUrl": "https://bbts1.azureedge.net/images/p/full/2021/09/519b0886-cd08-4ae5-914f-95a499609911.jpg",
+            "make": "Tracey",
+            "mileage": 9002,
+            "model": "Thunderbird 4",
+            "vrm": "TH84BRD"
+        },
+        {
+            "added": "2022-04-11T14:00:00.000Z",
+            "id": "8ed9a9d8-0341-4834-87dc-18296b321e7f",
+            "imageUrl": "https://bbts1.azureedge.net/images/p/full/2021/09/519b0886-cd08-4ae5-914f-95a499609911.jpg",
+            "make": "Tracey",
+            "mileage": 32837,
+            "model": "Thunderbird 5",
+            "vrm": "TH85BRD"
+        }
+    ]
+}
